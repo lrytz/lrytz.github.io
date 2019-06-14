@@ -4,15 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I am a software engineer at [Lightbend](http://www.lightbend.com/) working on the Scala compiler.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Before joining Lightbend, I did a PhD at [EPFL](http://www.epfl.ch/), Switzerland, working in [Martin Odersky](http://lampwww.epfl.ch/~odersky/)'s lab named [LAMP](http://lamp.epfl.ch/).
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+My [doctoral research](/pubsTalks/) was about systems for controlling side-effects in non-purely-functional programming languages. Concretely, I was working on a generic type-and-effect system for [Scala](http://www.scala-lang.org/). The project page is [on Github](https://github.com/lrytz/efftp).
 
+Besides that, I did a fair amount of hacking in the Scala compiler. For example, I designed and implemented [named and default arguments](http://docs.scala-lang.org/sips/completed/named-and-default-arguments.html).
 
-[jekyll-organization]: https://github.com/jekyll
+In my computer-free time, I enjoy listening and playing music, climbing mountains and piloting small airplanes.
