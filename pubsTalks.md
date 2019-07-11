@@ -6,7 +6,7 @@ permalink: /pubsTalks/
 
 Scala
 
-  * How we are going to migrate to Scala 3, Talk at the Scala Days 2019 \[ [video](https://portal.klewel.com/watch/webcast/scala-days-2019/talk/25/) \| [slides](/download/scala-days-2019.pdf) \]
+  * How we are going to migrate to Scala 3, Talk at the Scala Days 2019 \[ [video](https://www.youtube.com/watch?v=KUl1Ilcf0b8) \| [slides](/download/scala-days-2019.pdf) \]
   * Scala 2.12 ♡ Java 8, Talk at the Bucharest.scala meetup, 2016 \[ [video](https://youtu.be/3aVwtBR0LgM) \| [slides](/download/bucharest-scala-2016.pdf) \]
   * Tales from Compiling to the JVM, Talk at Scala World, 2016 \[ [video](https://www.youtube.com/watch?v=H3hPWvZtF4A) \| [slides](/download/scala-world-2016.pdf) \]
   * The Optimizer in Scala 2.12, Talk for the Zurich Scala Enthusiasts meetup, 2016 \[ [slides](/download/scala-user-group-2016.pdf) \]
