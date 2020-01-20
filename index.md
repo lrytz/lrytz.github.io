@@ -5,7 +5,7 @@
 layout: home
 ---
 
-I am a software engineer at [Lightbend](http://www.lightbend.com/) working on the Scala compiler.
+I am a compiler engineer and the lead of [Lightbend](http://www.lightbend.com/)'s Scala team.
 
 Before joining Lightbend, I did a PhD at [EPFL](http://www.epfl.ch/), Switzerland, working in [Martin Odersky](http://lampwww.epfl.ch/~odersky/)'s lab named [LAMP](http://lamp.epfl.ch/).
 
